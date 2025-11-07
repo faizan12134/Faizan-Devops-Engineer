@@ -52,6 +52,5 @@ I'm always open to discussing new projects, collaboration opportunities, or inno
 *   **Email:** your.email@example.com (replace with your actual email)
 *   **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/muhammad-faizan-dev0ps/) (replace with your actual LinkedIn URL)
 *   **Fiverr:** [Your Fiverr Profile]((https://www.fiverr.com/faizee531/)) (replace with your actual Fiverr URL)
-*  
 
 ---
