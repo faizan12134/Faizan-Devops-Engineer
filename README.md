@@ -45,12 +45,7 @@ I'm a highly driven and results-oriented **Infrastructure/DevOps Engineer** and 
 
 ---
 
-### 🌐 Let's Connect!
+## 🌐 Let's Connect!
 
 I'm always open to discussing new projects, collaboration opportunities, or innovative ideas. Feel free to reach out!
-
-*   **Email:** your.email@example.com (replace with your actual email)
-*   **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/muhammad-faizan-dev0ps/) (replace with your actual LinkedIn URL)
-*   **Fiverr:** [Your Fiverr Profile]((https://www.fiverr.com/faizee531/)) (replace with your actual Fiverr URL)
-
----
+*   **LinkedIn:** [Muhammad Faizan | DevOps](https://www.linkedin.com/in/muhammad-faizan-dev0ps/)
